@@ -1,0 +1,1 @@
+Acesse o site https://git-scm.com/downloads para fazer o download do GIT.
